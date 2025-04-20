@@ -1,2 +1,2 @@
 # N-body
-simple n-body simulation using ebiten
+Just a simple n-body simulation using ebiten
